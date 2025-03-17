@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "expo": "^46.0.16",
+    "expo": "^50.0.0",
     "react": "^18.2.0",
     "react-native": "^0.70.4",
     "react-native-mmkv": "^2.4.3"
